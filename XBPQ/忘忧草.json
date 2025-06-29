@@ -1,0 +1,11 @@
+{
+ "请求头": "User-Agent$MOBILE_UA",
+ "编码": "UTF-8",
+ "影片地区": "ShowStar&阿星",
+ "影片年代": "<div class=\"module-info-tag\">&&</div>",
+ "影片状态": "备注：&&</div>",
+ "影片类型": "module-info-tag\">&&立即播放",
+ "分类url": "https://www.myripon.com/index.php/vod/show/id/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+ "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
+ "类型": "空||国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#泰国剧$23#海外剧$24#短剧$35||国产$29#日韩$30#港台$31#欧美$32#海外$33||大陆$25#港台$26#日韩$27#欧美$28"
+}

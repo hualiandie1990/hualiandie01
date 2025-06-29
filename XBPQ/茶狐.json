@@ -1,0 +1,16 @@
+{
+ "影片地区": "ShowStar&阿星",
+ "影片年代": "<div class=\"module-info-tag\">&&</div>",
+ "影片状态": "备注：&&</div>",
+ "影片类型": "module-info-tag\">&&立即播放",
+ "线路数组": "<div class=\"module-tab-item tab-item\"&&</div>[不包含:蓝光#蓝光①#蓝光②#蓝光③#蓝光④#蓝光⑤#蓝光⑥]",
+ "线路标题": "星视界Star💖+<span>&&</small>[替换:</span><small>>>共]+集",
+ "播放数组": "<div class=\"module-play-list\"&&</div>",
+ "简介": "💖关注公众号【星视界Star】获取更多资源✨ShowStar&阿星为您介绍剧情💝+description\" content=\"&&\"",
+ "分类url": "https://www.cbhfox.com/chbys/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+ "分类": "电视剧$dianshiju#电影$dianying#综艺$zongyi#动漫$dongman#纪录片$jilupian",
+ "类型": "国产剧$gcj#港台剧$gtj#日韩剧$rhj#海外剧$hwj#短剧$rmdj||空||空||空||空",
+ "嗅探词": ".m3u8#.m3u8?#v3.huoshanvod.com#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4#video_mp4",
+ "过滤词": "/hls/#php"
+
+}
