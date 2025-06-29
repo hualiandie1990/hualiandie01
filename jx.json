@@ -47,24 +47,8 @@
                 "ratio": 1.597
             }
         },
-      {
-      "key": "js_好趣",
-      "name": "💖智搏｜星影視✨",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "ext": "https://git.acwing.com/star1990/showstar01/-/raw/main/%E5%A5%BD%E8%B6%A3.js"
-    },
-
-    {
-            "key": "短视频js",
-            "name": "💖短视频｜星影視✨",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "ext": "./js/短视频.js"
-        },
-
+      
+    
 
 {
             "key": "阿星影视",
@@ -120,7 +104,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://git.acwing.com/star1990/showstar01/-/raw/main/%E7%99%BD%E5%AB%96%E8%80%85.json"
+      "ext": "https://git.acwing.com/jian/showstar01/-/raw/main/%E7%99%BD%E5%AB%96%E8%80%85.json"
        },
 
 
@@ -179,7 +163,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
-"ext": "https://git.acwing.com/star1990/starzb1/-/raw/main/%E7%BD%91%E9%A3%9E%E7%8C%AB.json"
+"ext": "https://git.acwing.com/jian/starzb1/-/raw/main/%E7%BD%91%E9%A3%9E%E7%8C%AB.json"
 },
 
 
