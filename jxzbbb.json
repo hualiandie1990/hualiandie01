@@ -1,0 +1,21 @@
+ {
+  "spider": "./jar/xmbjm.jar",
+  "warningText": "关注公众号：星视界Star。",
+  "sites": [
+
+    
+
+{
+      "key": "csp_Live2Vod_2",
+      "name": "💖星影视｜星視界✨",
+      "type": 3,
+      "api": "csp_Live2Vod",
+      "jar": "./jar/秒b合并.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "💖古装探案$https://git.acwing.com/star1990/starzb1/-/raw/main/古装探案系列.txt#💖玄幻稻木$https://git.acwing.com/star1990/starzb1/-/raw/main/%E7%8E%84%E5%B9%BB%E7%A8%BBM%E7%B3%BB%E5%88%97.txt#💖港台经典$https://git.acwing.com/star1990/starzb1/-/raw/main/%E9%87%91%E5%85%B8%E5%B2%97%E5%8F%B0%E7%B3%BB%E5%88%97.txt"
+     
+      }
+  ]
+}

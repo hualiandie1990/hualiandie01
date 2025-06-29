@@ -1,0 +1,34 @@
+[
+  {
+    "name": "推荐",
+    "list": [
+       {
+        "name": "阿星",
+        "url": "",
+        "icon": ""
+      }
+    ]
+  },
+
+  {
+    "name": "点击此处扫码关注我",
+    "list": [
+      {
+        "name": "抖音号",
+        "url": "",
+        "icon": "https://gitee.com/jinluling/startupian/raw/master/douyin.jpg"
+      },
+      {
+        "name": "微信号",
+        "url": "",
+        "icon": "https://gitee.com/jinluling/startupian/raw/master/starweixing.jpg"
+      },
+      {
+        "name": "公众号",
+        "url": "",
+        "icon": "https://gitee.com/jinluling/startupian/raw/master/gzh.jpg"
+      }
+    ]
+  }
+  ]
+ 
