@@ -59,17 +59,7 @@
             "filterable": 1,
             "ext": "./XYQHiker/阿星影视1.json"
         },
-   {
-      "key": "小天",
-      "name": "💖阿星4K｜星影視✨",
-      "type": 3,
-      "api": "./py/阿星star4K.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
+  
 
 {
       "key": "齐游影视",
