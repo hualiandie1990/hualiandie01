@@ -1275,7 +1275,17 @@
       },	
 
 
-
+{
+      "key": "xbpq_礼语",
+      "name": "💖礼语｜星影視✨",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/GX2.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/礼语.json"
+    },
 
             
         {
