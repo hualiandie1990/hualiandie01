@@ -149,7 +149,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "api": "./py/javxx.py",
+            "api": "./javxx.py",
             "ext": {
                 "proxy": {},
                 "plp": ""
