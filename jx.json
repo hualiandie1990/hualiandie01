@@ -142,6 +142,19 @@
             "filterable": 1,
             "playerType": 2
         },
+{
+            "key": "javxx",
+            "name": "(🔞)Javxx 𒉽",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "api": "./py/javxx.py",
+            "ext": {
+                "proxy": {},
+                "plp": ""
+            }
+        },
 
 
 {
