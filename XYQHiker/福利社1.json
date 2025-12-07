@@ -10,7 +10,7 @@
     "首页片单列表数组规则": "li",
     "首页片单是否Jsoup写法": "1",
     "分类起始页码": "1",
-    "分类链接": "https://www.fulisher.net/index.php/vod/show/id/{cateId}-{catePg}.html[firstPage=https://saohuo.tv/list/{cateId}.html]",
+    "分类链接": "https://www.fulisher.net/index.php/vod/show/id/{cateId}-{catePg}.html[firstPage=https://www.fulisher.net/index.php/vod/show/id/{cateId}.html]",
     "分类名称": "中文传媒&国产&欧美AV&日本AV",
     "分类名称替换词": "1&35&2&3",
     "筛选数据": {},
@@ -78,4 +78,5 @@
     "是否开启手动嗅探": "0",
     "手动嗅探视频链接关键词": ".mp4#.m3u8#.flv#video/tos",
     "手动嗅探视频链接过滤词": ".html#=http"
+
 }
